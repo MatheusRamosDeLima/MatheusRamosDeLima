@@ -1,4 +1,9 @@
 ### Hi there 👋
+## About Matheus R. de Lima
+# I'm a web developer with an interest in developing websites that will help people in their day to day with their goals and objectives.
+# I am looking to acquire new skills and become better every day.
+# Currently: Junior Developer.
+## Thank you guys!
 
 <!--
 **MatheusRamosDeLima/MatheusRamosdeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
