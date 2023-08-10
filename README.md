@@ -11,7 +11,7 @@
   <img align="center" alt="Language-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-<div>
+<div><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima">
 </div>
 
