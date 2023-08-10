@@ -12,7 +12,7 @@
 </div>
 
 <div><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima&show_icons=true&theme=dracula">
 </div>
 
 <!-- https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima https://github.com/MatheusRamosdeLima/github-readme-stats
