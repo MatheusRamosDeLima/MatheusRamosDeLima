@@ -1,21 +1,12 @@
-# Hi there 👋
-## About me
-### I'm a web developer with an interest in developing websites that will help people in their day to day with their goals and objectives.
-### I am looking to acquire new skills and become better every day.
-### Currently: Junior Developer.
-## Thank you guys!
+## Oii! Sou o Matheus Ramos de Lima.
 
-<!--
-**MatheusRamosDeLima/MatheusRamosdeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Atualmente trabalho com freelance como Desenvolvedor Front-end.
+- 🎨 Sou interessado na área de Design UX/UI.
+- ✨ Desejo ajudar as pessoas cada vez mais com o uso da tecnologia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Language-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Language-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Language-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Language-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
