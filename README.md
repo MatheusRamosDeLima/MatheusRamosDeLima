@@ -16,5 +16,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima&show_icons=true&theme=dracula&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamosdeLima&layout=compact&theme=dracula">
 </div>
-
-<!-- https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima https://github.com/MatheusRamosdeLima/github-readme-stats
