@@ -11,4 +11,4 @@
   <img align="center" alt="Language-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima https://github.com/anuraghazra/github-readme-stats
+https://github-readme-stats.vercel.app/api?username=MatheusRamosdeLima https://github.com/MatheusRamosdeLima/github-readme-stats
