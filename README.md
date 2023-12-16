@@ -1,6 +1,7 @@
 ## Oii! Sou o Matheus Ramos de Lima.
 
 - 💼 Atualmente trabalho com freelance como Desenvolvedor Front-end.
+- Também atuo e estudo de forma completa o desenvolvimento fullstack.
 - 🎨 Estudo e estou interessado na área de Design UX/UI.
 - ✨ Desejo ajudar as pessoas cada vez mais com o uso da tecnologia.
 
